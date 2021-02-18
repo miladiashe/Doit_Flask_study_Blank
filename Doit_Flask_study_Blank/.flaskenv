@@ -1,2 +1,1 @@
 FLASK_ENV=development
-FLASK_APP=Doit_Flask_study_Blank
